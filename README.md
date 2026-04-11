@@ -31,9 +31,9 @@ Database: MongoDB
 
 ## Screenshots
 
-### Home Page
+### Login Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/login.png)
 
 ### About Page
 
