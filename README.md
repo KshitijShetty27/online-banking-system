@@ -92,6 +92,7 @@ JWT_SECRET=your_secret_key
 
 ---
 
-## Author
+## Team Members
 
-Mallikarjuna Rao R.V
+Kshitij Satish Shetty and Mallikarjuna Rao R.V
+https://github.com/KshitijShetty27 and https://github.com/mallikarjunrao-sketch
