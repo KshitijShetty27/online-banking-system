@@ -92,8 +92,6 @@ JWT_SECRET=your_secret_key
 
 ---
 
-## Team Members
-
 ## 👥 Team Members
 
 - [Kshitij Satish Shetty](https://github.com/KshitijShetty27)  
